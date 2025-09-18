@@ -4,3 +4,4 @@ Three spinning half circles, with customizable color set and text message in the
 
 <h2>Output</h2>
 <img src="Screenshot 2025-09-18 121534.png">
+
